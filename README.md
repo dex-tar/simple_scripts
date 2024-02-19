@@ -9,7 +9,7 @@ This collection of scripts serves various purposes, focusing on enhancing system
 
 ➡️ system_check.py: This Python script offers comprehensive system checks and diagnostics, providing insights into the system's health and performance metrics.
 
-➡ system_check.sh: Another Bash script, designed to perform system checks and validations, ensuring optimal functioning and identifying potential issues.
+➡️ system_check.sh: Another Bash script, designed to perform system checks and validations, ensuring optimal functioning and identifying potential issues.
 
 Feel free to explore, use, and contribute to these scripts as needed.  
 If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
